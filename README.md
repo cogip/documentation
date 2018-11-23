@@ -2,4 +2,5 @@
 
 Here is the platform hardware architecture:
 
-![Image of HW architecture](https://github.com/cogip/documentation/raw/master/images/hw_diagram.png)
+![Image of HW architecture](https://github.com/cogip/documentation/raw/master/images/MCUSoftArchitecture.png)
+
